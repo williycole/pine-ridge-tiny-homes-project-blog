@@ -8,9 +8,14 @@ const Layout = ({ location, title, children }) => {
 
   if (isRootPath) {
     header = (
-      <h1 className="main-heading">
-        <Link to="/">{title}</Link>
-      </h1>
+      <nav className="main-nav">
+        <a href="https://pineridgetinyhomeproject.netlify.app/">
+          <h1 className="main-heading">Home</h1>
+        </a>
+        <h1 className="main-heading">
+          <Link to="/">{title}</Link>
+        </h1>
+      </nav>
     )
   } else {
     header = (
