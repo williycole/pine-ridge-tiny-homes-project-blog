@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Pine Ridge Tiny Homes Project Blog`,
+    title: `Blog`,
     author: {
       name: `Mike Rains.`,
       summary: ` Mike is a Marine Corps veteran and holds a Bachelors Degree
