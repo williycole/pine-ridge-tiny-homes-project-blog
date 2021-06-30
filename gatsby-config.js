@@ -1,15 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Pine Ridge Tiny Homes Project Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Mike Rains.`,
+      summary: ` Mike is a Marine Corps veteran and holds a Bachelors Degree
+                from the University of Mississippi in Geology, English, and Religion.
+                He recently completed a bicycle trip from Mississippi to the border of
+                Panama and Colombia in the Darien Jungle to raise awareness for sustainable
+                agriculture. Mike is currently on the road walking from Popular Bluff MO to
+                Pine Ridge South Dakota to raise awareness and help support the conversion
+                of shipping containers into cozy, energy-efficient, tornado-proof homes for the
+                people of Pine Ridge.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+
   },
   plugins: [
     `gatsby-plugin-image`,
