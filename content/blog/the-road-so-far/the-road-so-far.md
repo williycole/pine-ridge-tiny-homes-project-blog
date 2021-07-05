@@ -9,7 +9,7 @@ The most magical part of the trip so far, was waking from a dream in the afterno
 
 June 28th, as I write this, I've walked 750 miles and have 250 miles to go. Yesterday, I took my first step on a Native American Reservation. The Ihanktonwan Nation Yankton Sioux Tribe. I experienced a warm welcome, with about 10 different cars pulling over on the highway to see if I needed a ride. The weather was 20°F cooler than it has been, with auspicious skies of light gentle rain. I learned the saddening news that Medicine Man, Leonard Crow Dog, passed away on June 6th. I read his book 20 years ago in an English class in Colorado. He has been a strong and inspiring teacher for the Lakota Nation, transmitting traditional cultural practices which were nearly eradicated by 100 years of forced assimilation into Euro-American tradition and culture. Flags flew at half mass throughout the Lakota Reservations in honor of his mighty spirit. It is an honor to be here. I wish to write more, but is time to get back 
 
-![](image-from-ios.jpg)
+![The skateboard Travel Bag. ](image-from-ios.jpg "Mikes Skateboard Travel bag. ")
 
 on the road. I'll have time to write more in a week or two, when I arrive to Pine Ridge.
 
