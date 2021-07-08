@@ -293,6 +293,8 @@ a:focus {
 
 .bio {
   display: flex;
+  flex-direction: column;
+  align-items: center;
   margin-bottom: var(--spacing-16);
 }
 
